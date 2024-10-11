@@ -84,7 +84,7 @@
   <a href="https://www.leetcode.com/traataphoenix" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-TraataPhoenix-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/user/traataphoenix" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/traataphoenix/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-TraataPhoenix-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksForGeeks" />
   </a>
 </p>
