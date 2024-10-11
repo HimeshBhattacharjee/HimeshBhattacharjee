@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=FF7700&vCenter=true&width=500&lines=I+am+a+Passionate+Web+Developer+%F0%9F%92%BB;Enthusiast+in+AI+and+Machine+Learning+🤖;Problem+Solver+and+Lifelong+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Welcome+to+My+GitHub+Space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF7700&width=500&lines=I+am+a+Passionate+Web+Developer+%F0%9F%92%BB;Enthusiast+in+AI+/+Machine+Learning+🤖;Problem+Solver+and+Lifelong+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Welcome+to+My+Own+GitHub+Space!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,11 +24,26 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **enhancing problem-solving skills & building AI-integrated web projects**
-- 🌱 Learning **C++, Python, DSA, OOP, Full Stack Development, AI/ML**
-- 💬 Ask me about **Web Development, Python, Problem Solving Approaches**
-- 📫 Reach me at **omandabamema.2130@gmail.com**
-- ⚡ Fun fact: **The first computer "bug" was an actual moth!**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <strong>enhancing problem-solving skills & building AI-integrated web projects</strong></li>
+        <br/>
+        <li>🌱 Learning <strong>C++, Python, DSA, OOP, Full Stack Development, AI/ML</strong></li>
+        <br/>
+        <li>💬 Ask me about <strong>Web Development, Python, Problem Solving Approaches</strong></li>
+        <br/>
+        <li>📫 Reach me at <strong>omandabamema.2130@gmail.com</strong></li>
+        <br/>
+        <li>⚡ Fun fact: <strong>The first computer "bug" was an actual moth!</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Productive Workspace" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
