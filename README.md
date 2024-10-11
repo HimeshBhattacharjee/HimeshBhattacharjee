@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF7700&width=500&lines=I+am+a+Passionate+Web+Developer+%F0%9F%92%BB;Enthusiast+in+AI+/+Machine+Learning+🤖;Problem+Solver+and+Lifelong+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Welcome+to+My+Own+GitHub+Space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF7700&width=500&lines=I'm+a+Committed+Web+Developer+💻;Enthusiast+in+AI+/+Machine+Learning+🤖;Problem+Solver+and+Lifelong+Learner+👨🏼‍🎓;Welcome+to+My+Own+GitHub+Space!👋🏼" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
         <br/>
         <li>💬 Ask me about <strong>Web Development, Python, Problem Solving Approaches</strong></li>
         <br/>
-        <li>📫 Reach me at <strong>omandabamema.2130@gmail.com</strong></li>
+        <li>📫 Reach me at <strong><a href="mailto:omandabamema.2130@gmail.com">omandabamema.2130@gmail.com</a></strong></li>
         <br/>
         <li>⚡ Fun fact: <strong>The first computer "bug" was an actual moth!</strong></li>
       </ul>
@@ -48,10 +48,16 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himeshbhattacharjee&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Himesh Bhattacharjee's GitHub stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himeshbhattacharjee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=himeshbhattacharjee&theme=onedark" alt="GitHub Torphies" />
 </p>
 
 ---
@@ -64,7 +70,6 @@
 ---
 
 ### 🚀 My Projects
-
 - 🌟 **CogniCreate**: AI-powered code editor and generative AI platform for creative content.
 - 🎥 **CineZone**: A film exploration and recommendation platform.
 - 🤖 **Nexus AI**: An AI assistant inspired by JARVIS from Iron Man, automating daily tasks.
@@ -72,7 +77,6 @@
 ---
 
 ### 🤝 Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/himeshbhattacharjee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Himesh%20Bhattacharjee-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
